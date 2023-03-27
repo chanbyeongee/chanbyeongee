@@ -10,6 +10,8 @@ Lastly, <b>Planning and communication with team members</b> are most important f
 ### 🛠️Skills
 #### Launguage
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-231F20?style=for-the-badge&logo=c%2B%2B&logoColor=white"><br>
+![image](https://user-images.githubusercontent.com/51030319/227885265-7b8c7dd0-4516-442b-82ab-dcc6c1565fcb.png)
+
 #### Embedded/AI
 <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"><br>
 ![image](https://user-images.githubusercontent.com/51030319/227882647-049848a7-9005-4b0e-97e6-f18f715afd44.png)
